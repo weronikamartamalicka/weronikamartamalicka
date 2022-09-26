@@ -2,6 +2,7 @@
 
 Beginner programmer ⚡ FinTech ⚡ Entrepreneurship ⚡ Spring Boot ⚡ Microservices ⚡ Java ⚡ Hibernate
 
+![Bez nazwy-1](https://user-images.githubusercontent.com/104759555/192273423-74bbba4c-dafa-476c-9dd2-27876be412e2.jpg)
 
 
 I want to change the world into a better place by co-creating incredibly interesting projects. I want to grow in cloud and microservices solutions.
